@@ -1,21 +1,14 @@
-body {
-        backgrounf-color: lightblue;
-     }
 
-h1 {
-        color: white;
-        text-align: center;
-}
+                        body {
+                          backgrounf-color: lightblue;
+                        }
 
-p {
-        font-family: verdana;
-        font-size: 20px;
-}
+                        hi {
+                          color: white;
+                          text-align: center;
+                        }
 
-h1 {
-	font-size:50px;
-}
-
-h3 {
-	font-size:22px;
-}
+                        p {
+                          font-family: verdana;
+                          font-size: 20px;
+                        }
